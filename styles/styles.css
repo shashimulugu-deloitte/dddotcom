@@ -75,7 +75,7 @@ h4, h5, h6 {
   margin-bottom: .5em;
   scroll-margin: calc(var(--nav-height) + 1em);
 }
-
+.dark { background-color: grey}
 h1 { font-size: var(--heading-font-size-xxl) }
 h2 { font-size: var(--heading-font-size-xl) }
 h3 { font-size: var(--heading-font-size-l) }
